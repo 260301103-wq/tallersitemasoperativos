@@ -32,3 +32,4 @@
 ---
 *Notas de clase #11 (22/09/26)*
 - `No me acuerdo...`
+<img src="https://i.supaimg.com/c47976f0-b2cf-4bd3-92cc-17b1ae849f0d/54632e2d-3fe4-4d31-96e4-f23b47e8ba23.jpg" width="500">
