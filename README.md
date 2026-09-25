@@ -1,4 +1,4 @@
-# 📚 Bitacora de clases
+# 🗒️ Bitacora de clases
 
 *Notas de clase #1 (18/08/26)*
 - Iniciamos clases a la hora acordada, a las 8, nos sentamos donde quisimos y nos explico que sus tareas las estaríamos subiendo por **Discord** y que también tendríamos que subir una noticia sobre la tecnología o avance tecnologico.
@@ -32,4 +32,24 @@
 ---
 *Notas de clase #11 (22/09/26)*
 - `No me acuerdo...`
-<img src="https://i.supaimg.com/c47976f0-b2cf-4bd3-92cc-17b1ae849f0d/54632e2d-3fe4-4d31-96e4-f23b47e8ba23.jpg" width="500">
+
+<p align="center">
+  <img src="https://files.catbox.moe/lttj5u.png" width="900">
+</p>
+
+# 📖 Tareas de clase
+
+*Tarea #998 Llevar una bitácora de clases*
+
+<a href="https://github.com/260301103-wq/tallersitemasoperativos/edit/main/README.md#%EF%B8%8F-bitacora-de-clases">✦ PRESIÓNAME ✦</a>
+
+---
+*Tarea #997 Practica de comandos*
+
+<p align="center">
+  <img src="https://files.catbox.moe/8p7yee.png" width="900">
+</p>
+
+---
+*Tarea #994 Instalar Virtualbox y alguna distribución de Linux*
+
