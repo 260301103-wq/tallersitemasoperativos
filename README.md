@@ -41,7 +41,7 @@
 
 *Tarea #998 Llevar una bitácora de clases*
 
-<a href="https://github.com/260301103-wq/tallersitemasoperativos/edit/main/README.md#%EF%B8%8F-bitacora-de-clases">✦ PRESIÓNAME ✦</a>
+<a href="https://github.com/260301103-wq/tallersitemasoperativos/blob/main/README.md#%EF%B8%8F-bitacora-de-clases">✦ PRESIÓNAME ✦</a>
 
 ---
 *Tarea #997 Practica de comandos*
