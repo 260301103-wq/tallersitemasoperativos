@@ -53,3 +53,7 @@
 ---
 *Tarea #994 Instalar Virtualbox y alguna distribución de Linux*
 
+<p align="center">
+  <img src="https://i.postimg.cc/XvLv1T0W/Captura-de-pantalla-2026-09-25-082514.png" width="900">
+</p>
+
