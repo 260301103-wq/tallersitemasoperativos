@@ -61,4 +61,5 @@
   <img src="https://cdn.phototourl.com/member/2026-10-06-850ef15c-b4e4-4998-95c8-ef026aac2b62.png" width="900">
 </p>
 
-# 🗒️ Bitacora de clases Parcial II
+
+
