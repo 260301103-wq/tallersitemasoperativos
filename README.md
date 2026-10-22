@@ -1,4 +1,4 @@
-#
+# ✦ Contenido del curso
 
 # 🗒️ Bitácora de clases | Parcial 1
 
