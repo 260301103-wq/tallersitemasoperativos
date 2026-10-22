@@ -1,7 +1,7 @@
 # ✦ Contenido del curso
 
 <a href="https://github.com/260301103-wq/tallersitemasoperativos/blob/main/README.md#%EF%B8%8F-bitacora-de-clases">
-  <img src="boton X.gif" width="300">
+  <img src="boton X.gif" width="50">
 </a>
 
 
