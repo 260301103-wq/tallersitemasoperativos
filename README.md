@@ -1,5 +1,10 @@
 # ✦ Contenido del curso
 
+<a href="https://github.com/260301103-wq/tallersitemasoperativos/blob/main/README.md#%EF%B8%8F-bitacora-de-clases">
+  <img src="boton X.gif" width="300">
+</a>
+
+
 # 🗒️ Bitácora de clases | Parcial 1
 
 *Notas de clase #1 (18/08/26)*
