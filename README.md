@@ -1,6 +1,6 @@
 # ✦ Contenido del curso
 
-<a href="https://github.com/260301103-wq/tallersitemasoperativos/blob/main/README.md#%EF%B8%8F-bitacora-de-clases">
+<a href="https://github.com/260301103-wq/tallersitemasoperativos/blob/main/README.md#-tareas-de-clase--parcial-1">
   <img src="boton X.gif" width="50">
 </a>
 
