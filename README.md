@@ -4,6 +4,10 @@
   <img src="boton X.gif" width="50">
 </a>
 
+<a href="https://github.com/260301103-wq/tallersitemasoperativos/blob/main/README.md#-bit%C3%A1cora-de-clases--parcial-2">
+  <img src="boton X.gif" width="50">
+</a>
+
 
 # 🗒️ Bitácora de clases | Parcial 1
 
