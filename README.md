@@ -1,3 +1,5 @@
+#
+
 # 🗒️ Bitácora de clases | Parcial 1
 
 *Notas de clase #1 (18/08/26)*
