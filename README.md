@@ -6,7 +6,7 @@
 
 <a href="https://github.com/260301103-wq/tallersitemasoperativos/blob/main/README.md#-bit%C3%A1cora-de-clases--parcial-2">✦ Bitácora de clases | Parcial 2 ✦</a>
 
-<a href="https://github.com/260301103-wq/tallersitemasoperativos/blob/main/README.md#%EF%B8%8F-bitacora-de-clases">✦ Tareas de clase | Parcial 2 ✦</a>
+<a href="https://github.com/260301103-wq/tallersitemasoperativos/blob/main/README.md#-tareas-de-clase--parcial-2">✦ Tareas de clase | Parcial 2 ✦</a>
 
 
 # 🗒️ Bitácora de clases | Parcial 1
