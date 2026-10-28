@@ -112,6 +112,6 @@
 
 *Tarea #992 Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf*
 
-<a href="">✦ PRESIÓNAME ✦</a>
+<a href="https://github.com/260301103-wq/tallersitemasoperativos/blob/main/18%20scripts.md">✦ 18 bash scripts{ ✦</a>
 
 
