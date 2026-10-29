@@ -1,4 +1,4 @@
-# ✦ Contenido del curso
+# ꒰ Contenido del curso ꒱
 
 <a href="https://github.com/260301103-wq/tallersitemasoperativos/blob/main/README.md#%EF%B8%8F-bitacora-de-clases">✦ Bitácora de clases | Parcial 1 ✦</a>
 
