@@ -9,7 +9,7 @@
 <a href="https://github.com/260301103-wq/tallersitemasoperativos/blob/main/README.md#-tareas-de-clase--parcial-2">✦ Tareas de clase | Parcial 2 ✦</a>
 
 
-# 🗒️ Bitácora de clases | Parcial 1
+# ✧ Bitácora de clases | Parcial 1
 
 *Notas de clase #1 (18/08/26)*
 - Iniciamos clases a la hora acordada, a las 8, nos sentamos donde quisimos y nos explico que sus tareas las estaríamos subiendo por **Discord** y que también tendríamos que subir una noticia sobre la tecnología o avance tecnologico.
@@ -48,7 +48,7 @@
   <img src="https://files.catbox.moe/lttj5u.png" width="900">
 </p>
 
-# 📗 Tareas de clase | Parcial 1
+# ୨୧ Tareas de clase | Parcial 1
 
 *Tarea #998 Llevar una bitácora de clases*
 
@@ -68,7 +68,7 @@
   <img src="https://i.postimg.cc/XvLv1T0W/Captura-de-pantalla-2026-09-25-082514.png" width="900">
 </p>
 
-# 📝 Bitácora de clases | Parcial 2
+# ✧ Bitácora de clases | Parcial 2
 
 *Notas de clase #1 (18/08/26)*
 - Iniciamos clases a la hora acordada, a las 8, nos sentamos donde quisimos y nos explico que sus tareas las estaríamos subiendo por **Discord** y que también tendríamos que subir una noticia sobre la tecnología o avance tecnologico.
@@ -108,7 +108,7 @@
   <img src="https://cdn.phototourl.com/member/2026-10-06-850ef15c-b4e4-4998-95c8-ef026aac2b62.png" width="900">
 </p>
 
-# 📘 Tareas de clase | Parcial 2
+# ୨୧ Tareas de clase | Parcial 2
 
 *Tarea #992 Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf*
 
