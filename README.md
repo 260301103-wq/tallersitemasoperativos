@@ -110,12 +110,28 @@
 
 # ୨୧ Tareas de clase | Parcial 2
 
-*Tarea #992 Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf*
-
-<a href="https://github.com/260301103-wq/tallersitemasoperativos/blob/main/18%20scripts.md">✦ 18 bash scripts ✦</a>
-
 *Tarea #996 Realizar los ejercicios de bandit en overthewire.*
 
 <a href="https://github.com/260301103-wq/tallersitemasoperativos/blob/main/Bandit.md">✦ Bandit ✦</a>
 
+*Tarea #992 Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf*
 
+<a href="https://github.com/260301103-wq/tallersitemasoperativos/blob/main/18%20scripts.md">✦ 18 bash scripts ✦</a>
+
+*Tarea #990 Realizar una investigacion de la unidad 1*
+
+- Describir las características de los sistemas operativos, su evolución, estructura y tipos que existen para la gestión de
+recursos de un sistema de cómputo local o en la nube.
+
+1. Historia de los S.O.
+- La evolución de los sistemas operativos está ligada a las generaciones de las computadoras, buscando siempre optimizar el uso del procesador y facilitar la interacción humana.
+2. Estructura de los S.O.
+- La estructura define cómo se organizan internamente los componentes del sistema operativo para gestionar los recursos (CPU, memoria, almacenamiento).
+3. Interfaces de comandos locales
+-Los sistemas operativos se clasifican según su propósito y administración de tareas o usuarios:
+• Por su arquitectura de red:
+	• Locales: Diseñados para gestionar el hardware físico directo de una sola máquina (PC de escritorio, laptops).
+	• En la Nube / Distribuidos: Diseñados para gestionar centros de datos virtuales. Operan sobre hipervisores, abstrayendo el hardware físico para crear miles de instancias virtuales asignadas dinámicamente
+4. cmd
+7. bash
+8. powershell
