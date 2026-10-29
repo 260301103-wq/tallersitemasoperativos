@@ -114,4 +114,8 @@
 
 <a href="https://github.com/260301103-wq/tallersitemasoperativos/blob/main/18%20scripts.md">✦ 18 bash scripts ✦</a>
 
+*Tarea #996 Realizar los ejercicios de bandit en overthewire.*
+
+<a href="">✦ 18 bash scripts ✦</a>
+
 
