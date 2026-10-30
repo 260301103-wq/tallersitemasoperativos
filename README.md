@@ -71,37 +71,37 @@
 # ✧ Bitácora de clases | Parcial 2
 
 *Notas de clase #1 (18/08/26)*
-- 
+- iniciamos el segundo parcial, explicando tareas y y la rubrica del segundo parcial
 ---
 *Notas de clase #2 (20/08/26)*
-- 
+- `Estuvo preguntando dudas`
 ---
 *Notas de clase #3 (25/08/26)*
-- 
+- nos dio tiempo de terminar clases
 ---
 *Notas de clase #4 (27/08/26)*
-- 
+- yo subi una noticia sobre IA
 ---
 *Notas de clase #5 (1/09/26)*
-- 
+- `No me acuerdo de este dia`
 ---
 *Notas de clase #6 (3/09/26)*
--
+- `Tampoco de este`
 ---
 *Notas de clase #7 (8/09/26)*
--
+- el dia despues de este recibio la tarea **Tarea #996**
 ---
 *Notas de clase #8 (10/09/26)*
--
+- `Menos de este`
 ---
 *Notas de clase #9 (15/09/26)*
--
+- jugamos un jueguito de matar con comandos, no traía compu, haci que jugué con stephi 
 ---
 *Notas de clase #10 (17/09/26)*
--
+- el día anterior era la fecha de entrega de la tarea **Tarea #990** y la **Tarea #992**
 ---
 *Notas de clase #11 (22/09/26)*
--
+- `Estuvo preguntando dudas`
 
 
 <p align="center">
