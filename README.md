@@ -119,3 +119,13 @@
 <a href="https://github.com/260301103-wq/tallersitemasoperativos/blob/main/18%20scripts.md">✦ 18 bash scripts ✦</a>
 
 *Tarea #990 Realizar una investigacion de la unidad 1*
+
+<a href="https://github.com/260301103-wq/tallersitemasoperativos/wiki/investigacion-de-la-unidad-1
+">✦ Investigacion ✦</a>
+
+*Tarea #989 Realizar el modulo Linux Fundamentals de TryHackMe*
+
+<p align="center">
+  <img src="https://cdn.phototourl.com/member/2026-10-30-1ffdc685-eeaf-4ca6-885f-911e7ed90002.png" width="900">
+</p>
+
