@@ -134,3 +134,9 @@
 <p align="center">
   <img src="https://cdn.phototourl.com/member/2026-10-30-830c2a7c-2df1-4199-8370-60becaccf2fd.png" width="900">
 </p>
+
+# ✧ Bitácora de clases | Parcial 1
+
+*Notas de clase #1 (17/11/26)*
+- Explico que debemos de hacer en la tarea **"Tarea #979 Subir logo en repo de diapositivas"**, como subir nuestro logo.
+---
