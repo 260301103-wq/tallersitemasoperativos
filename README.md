@@ -27,7 +27,7 @@
 - `No hubo clases`
 ---
 *Notas de clase #6 (3/09/26)*
-- Explico el código que teníamos que poner en Git Bash, **Tarea #997 Practica de comandos**, explico que era cada comando y que son 22 comandos en total.
+- Explico el código que teníamos que poner en Git Bash, **Tarea #997**, explico que era cada comando y que son 22 comandos en total.
 ---
 *Notas de clase #7 (8/09/26)*
 - `No recuerdo que hicieramos algo`
@@ -139,6 +139,12 @@
 
 *Notas de clase #1 (17/11/26)*
 - Explico que debemos de hacer en la tarea **"Tarea #979 Subir logo en repo de diapositivas"**, como subir nuestro logo.
+---
+*Notas de clase #2 (19/11/26)*
+- Estuvo dando vueltas y preguntando por avances, lo cual en ese entonces yo no tenia ni madres.
+---
+*Notas de clases #3 (24/11/26)
+- Este día estaba revisando tareas yo avance la **Tarea #983**.
 ---
 
 # ୨୧ Tareas de clase | Parcial 3
