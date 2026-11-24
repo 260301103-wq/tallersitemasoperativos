@@ -135,8 +135,14 @@
   <img src="https://cdn.phototourl.com/member/2026-10-30-830c2a7c-2df1-4199-8370-60becaccf2fd.png" width="900">
 </p>
 
-# ✧ Bitácora de clases | Parcial 1
+# ✧ Bitácora de clases | Parcial 3
 
 *Notas de clase #1 (17/11/26)*
 - Explico que debemos de hacer en la tarea **"Tarea #979 Subir logo en repo de diapositivas"**, como subir nuestro logo.
 ---
+
+# ୨୧ Tareas de clase | Parcial 3
+
+*Tarea #983 Investigar sobre X11 en Linux, GNome, KDE y XFCE*
+
+<a href="https://github.com/260301103-wq/tallersitemasoperativos/wiki/Tarea-%23983-Investigar-sobre-X11-en-Linux,-GNome,-KDE-y-XFCE">✦ Investigacion ✦</a>
