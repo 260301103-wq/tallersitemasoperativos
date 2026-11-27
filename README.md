@@ -147,8 +147,18 @@
 - Este día estaba revisando tareas yo avance la **Tarea #983**.
 ---
 
+<p align="center">
+  <img src="https://cdn.phototourl.com/anon/2026-11-27-c36c93ab-dfe5-41c9-9705-45e611d7a1ff.png" width="800">
+</p>
+
 # ୨୧ Tareas de clase | Parcial 3
 
 *Tarea #983 Investigar sobre X11 en Linux, GNome, KDE y XFCE*
 
 <a href="https://github.com/260301103-wq/tallersitemasoperativos/wiki/Tarea-%23983-Investigar-sobre-X11-en-Linux,-GNome,-KDE-y-XFCE">✦ Investigacion ✦</a>
+
+*Tarea #987 Construir un jail/challenge*
+
+
+
+
